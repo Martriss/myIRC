@@ -1,0 +1,8 @@
+/node_modules
+/.vscode
+package-lock.json
+*.js
+connectionDB.ts
+src/test.ts
+*.csv
+testing/

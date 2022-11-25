@@ -1,0 +1,27 @@
+{
+  "name": "fdi-dts1",
+  "version": "1.0.0",
+  "description": "myIRC group-993689",
+  "main": "index.ts",
+  "scripts": {
+    "debug": ""
+  },
+  "author": "Thomas P",
+  "license": "ISC",
+  "dependencies": {
+    "@socket.io/admin-ui": "^0.5.1",
+    "cli-color": "^2.0.3",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-airbnb-typescript": "^17.0.0",
+    "mysql2": "^2.3.3",
+    "password-hash": "^1.2.2",
+    "readline-async": "^0.1.0",
+    "readline-sync": "^1.4.10",
+    "socket.io": "^4.5.3",
+    "socket.io-client": "^4.5.3"
+  },
+  "devDependencies": {
+    "@types/node": "^18.8.4",
+    "@types/readline-sync": "^1.4.4"
+  }
+}
