@@ -1,47 +1,8 @@
 Projet réalisé dans le cadre de la piscine de l'ETNA. Le but était de créer en une semaine un chat IRC avec différentes fonctionnalités clés.
 J'ai principalement travaillé sur les foncitons liées à la base de données et leur intégration.
 
-
-Skip to content
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
-@Martriss
-Martriss /
-myIRC
-Public
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-
-    Settings
-
-myIRC/MyIRC.htm
-risser_m Ajout sujet
-Latest commit 3c41fe8 Nov 25, 2022
-History
-0 contributors
-67 lines (67 sloc) 3.71 KB
-<html><head><title>MyIRC</title><link rel="stylesheet" href="https://dl.etna-alternance.net/sujets/prism.css"><link rel="stylesheet" href="https://dl.etna-alternance.net/sujets/sujet.css"><script type="text/javascript" src="https://dl.etna-alternance.net/sujets/prism.js"></script><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.7.1/clipboard.min.js"></script><script type="text/javascript" src="https://kit.fontawesome.com/2128552f47.js"></script><meta charset="UTF-8"></head><body><div class="panel-heading panel-header">MyIRC</div><div class="panel-heading panel-module">Modalités</div><div class="panel-body"><table>
-<thead>
-<tr>
-<th>Type</th>
-<th>Description</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Dépôt</td>
-<td>https://rendu-git.etna-alternance.net/module-9182/activity-50254/group-993689</td>
-</tr>
-</tbody></table>
+Sujet
+<html><body>
 </div><div class="panel-heading panel-objective">Objectifs</div><div class="panel-body"><ul>
 <li>Réaliser un projet de groupe</li>
 <li>Collaborer en utilisant Git</li>
@@ -97,20 +58,3 @@ History
 <li>Un gestionnaire de tâches pour votre groupe de projet (Un Board, Trello, Keep...)</li>
 </ul>
 </div></body></html>
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
-myIRC/MyIRC.htm at master · Martriss/myIRC
